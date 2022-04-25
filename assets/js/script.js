@@ -7,6 +7,9 @@ $("#currentDay").html(todaysDate + currentTime);
 
 $(document).ready(function () {
   $(".saveBtn").on("click", function () {
-    console.log("it worked");
+    var textEntry = $(this).siblings(".description").val();
+    var timeOfEntry = $(this).parent().attr("id");
+
+    localStorage.setItem(timeOfEntry, textEntry);
   });
 });
