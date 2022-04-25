@@ -35,3 +35,5 @@ function timeTracking() {
     }
   });
 }
+
+timeTracking();
