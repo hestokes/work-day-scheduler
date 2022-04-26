@@ -24,7 +24,7 @@ In creating Work-Day-Scheduler I learned to utilize jQuery and Bootstrap to crea
 
 ## Installation
 
-If you wish to utilize Word-Day-Scheduler, please feel free to utilize the provided code on your local machine. This app will require the installation of some node modules, which can be installed utilizing "npm install" at your command line. Otherwise, please enjoy the app as it is deployed live <HERE>.<!--  insert deployed app url -->
+If you wish to utilize Word-Day-Scheduler, please feel free to utilize the provided code on your local machine. This app will require the installation of some node modules, which can be installed utilizing "npm install" at your command line. Otherwise, please enjoy the app as it is [deployed live](https://hestokes.github.io/work-day-scheduler/).
 
 ## Usage
 
