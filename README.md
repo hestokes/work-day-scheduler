@@ -8,6 +8,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Technology](#technology)
 
 ## Description
 
@@ -27,9 +28,9 @@ If you wish to utilize Word-Day-Scheduler, please feel free to utilize the provi
 
 ## Usage
 
-    ```md
-    ![](.png)
-    ```
+![Work-Day Scheduler ready to use](assets/images/workdayblank.png?raw=true "Work-Day-Scheduler")
+![Work-Day Scheduler with tasks](assets/images/workdaytasks134.png?raw=true "Work-Day-Scheduler with saved tasks")
+![Tasks displayed in local storage](assets/images/workdaylocal.png?raw=true "Tasks saved in local storage")
 
 ## Credits
 
@@ -39,5 +40,9 @@ If you wish to utilize Word-Day-Scheduler, please feel free to utilize the provi
 - [jQuery help ](https://api.jquery.com/)
 - [Musical inspiration](https://youtu.be/XWNsWZ5VtWc)
 
-## Features
+## Technology
 
+Work-Day-Scheduler was created utilizing the following:
+
+  - [Visual Studio Code](https://code.visualstudio.com/) 
+  - [Moment.js](https://momentjs.com/)
