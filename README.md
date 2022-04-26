@@ -1,6 +1,6 @@
 # Work-Day-Scheduler
 
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
@@ -37,5 +37,7 @@ If you wish to utilize Word-Day-Scheduler, please feel free to utilize the provi
 - [CSS sizing for responsiveness](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
 - [Color fun](https://tools.picsart.com/color/wheel/)
 - [jQuery help ](https://api.jquery.com/)
+- [Musical inspiration](https://youtu.be/XWNsWZ5VtWc)
 
 ## Features
+
